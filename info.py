@@ -49,10 +49,10 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Cluster0')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'ziplinker.net')
-SHORTLINK_API = environ.get('SHORTLINK_API', '5b343a256452228dae2eb40201f9e8a64583357f')
-SECOND_SHORTLINK_URL = environ.get('SECOND_SHORTLINK_URL', '')
-SECOND_SHORTLINK_API = environ.get('SECOND_SHORTLINK_API', '')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'omegalinks.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', '1c68341ce1ff1858a7e82f00812898da69d44a0c')
+SECOND_SHORTLINK_URL = environ.get('SECOND_SHORTLINK_URL', 'omegalinks.in')
+SECOND_SHORTLINK_API = environ.get('SECOND_SHORTLINK_API', '1c68341ce1ff1858a7e82f00812898da69d44a0c')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '-1001827435709').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "12")
