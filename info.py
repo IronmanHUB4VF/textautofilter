@@ -13,9 +13,9 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_Bot')
-API_ID = int(environ.get('API_ID', '12192489'))
-API_HASH = environ.get('API_HASH', 'ed39e721f5d4fd6d3c05121c1661b8ea')
-BOT_TOKEN = environ.get('BOT_TOKEN', '')
+API_ID = int(environ.get('API_ID', '24736263'))
+API_HASH = environ.get('API_HASH', '4d53732917b73a6bb89c3b2f2f7b0902')
+BOT_TOKEN = environ.get('BOT_TOKEN', '6294506492:AAHWWWbk1TmdFCvLDGcHRgPJrpyoHEDwoYU')
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -27,9 +27,9 @@ MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/499d0ed233f043fe2
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/499d0ed233f043fe27786.jpg")
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5097048997').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001971293512').split()]
-auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '5097048997').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1228255863 5257925921').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001878326006 -1001895151847').split()]
+auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '1228255863 5257925921').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '1228255863 5257925921').split()]
 auth_channel = environ.get('AUTH_CHANNEL', "-1001859563032")
@@ -43,9 +43,9 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://moviescheckpoints:1@cluster0.rd7llap.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0") #don't change the name if you are using the database already
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Cluster0')
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Lazyiron:bhargavp1937@cluster7.31obcsb.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster7") #don't change the name if you are using the database already
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'iron_file')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
