@@ -25,7 +25,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 - Filter is the feature were users can set automated replies for a particular keyword and bot will respond whenever that keyword hits the message
 
-<b>🔥NOTE🔥:</b>
+<b>NOTE:</b>
 1. BOT should have admin privillage.
 2. Only admins can add filters in a chat.
 3. Alert buttons have a limit of 64 characters.
