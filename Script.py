@@ -6,7 +6,7 @@ Myself <a href=https://t.me/MoviesCheckpointBot>🎗 Movies_Checkpoint_Bot 🎗<
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/PirateGamers>⚡️PirateGamers⚡️</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/LazyIron>⚡️LazyIron⚡️</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 🔥𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼🔥
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: ⚡️𝙿𝚈𝚃𝙷𝙾𝙽 𝟹⚡️
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 🏆𝙼𝙾𝙽𝙶𝙾 𝙳𝙱🏆
@@ -18,7 +18,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✔️ Contact - http://t.me/Bugss_Support_Bot  
 
 <b>🔥DEVS🔥:</b>
-✔️ <a href=https://t.me/PirateGamers>⚡️PirateGamers⚡️</a>"""
+✔️ <a href=https://t.me/LazyIron>⚡️LazyIron⚡️</a>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪMANUELFILTER_TXT = """Help: <b>Filters</b>
